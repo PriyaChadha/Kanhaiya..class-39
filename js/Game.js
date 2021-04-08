@@ -41,7 +41,7 @@ class Game {
     
     if(allPlayers !== undefined){
       background(rgb(198,135,103));
-      //Kanhaiya Work
+     image(track, 0,-displayHeight*4,displayWidth, displayHeight*5);
       
       //var display_position = 100;
       
